@@ -1,0 +1,14 @@
+{
+  "name": "kinderenda-server",
+  "version": "v1.0.0",
+  "description": "Kinderenda project backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [],
+  "author": "gartorware <gartorware@gmail.com>",
+  "license": "ISC"
+}
